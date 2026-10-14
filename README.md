@@ -25,9 +25,18 @@
 Các kho mã công khai của mình trên GitHub. Nhấn vào từng thẻ để xem nội dung.
 
 <p align="center">
-  <a href="https://github.com/Krev1/Krev1"><img src="./assets/repo-profile.svg" alt="Krev1 — Hồ sơ cá nhân và danh mục dự án. Kho mã công khai." width="49%" /></a>
-  <a href="https://github.com/Krev1/Learn"><img src="./assets/repo-learn.svg" alt="Learn — Kho dành cho hành trình tự học Python. Kho mã công khai." width="49%" /></a>
+  <a href="https://github.com/Krev1/spendwise-ai"><img src="./assets/repo-spendwise.svg" alt="spendwise-ai — Công cụ giao dịch, CSV và prototype phân loại; dự án đang phát triển." width="49%" /></a>
+  <a href="https://github.com/Krev1/monograph-portfolio"><img src="./assets/repo-monograph.svg" alt="monograph-portfolio — Portfolio Next.js, React và TypeScript với danh sách repo GitHub." width="49%" /></a>
 </p>
+
+<p align="center">
+  <a href="https://github.com/Krev1/Learn"><img src="./assets/repo-learn.svg" alt="Learn — Bài học, bài tập và nhật ký tự học Python qua dự án SpendWise AI." width="49%" /></a>
+  <a href="https://github.com/Krev1/Krev1"><img src="./assets/repo-profile.svg" alt="Krev1 — Hồ sơ cá nhân và danh mục dự án." width="49%" /></a>
+</p>
+
+- **SpendWise AI:** đã có công cụ giao dịch/CSV, xử lý dữ liệu và prototype baseline phân loại. Ứng dụng web đầy đủ và pipeline huấn luyện ML vẫn đang phát triển.
+- **MONOGRAPH:** portfolio cá nhân bằng Next.js, React và TypeScript; giới thiệu dự án, liên hệ và lấy danh sách repo công khai từ GitHub API.
+- **Learn:** lộ trình, bài học, bài tập và nhật ký Python; có tài liệu thực hành CSV, gán nhãn và xây dựng dataset cho SpendWise AI.
 
 [Xem tất cả kho mã →](https://github.com/Krev1?tab=repositories)
 
@@ -145,3 +154,4 @@ A contribution to **ProZ0**, a browser-based pixel-art survival and exploration 
 <p align="center">
   <a href="https://www.upwork.com/freelancers/~011c3300901128f074"><img src="./assets/link-upwork.svg" alt="Contact Tri on Upwork" width="280" /></a>
 </p>
+
