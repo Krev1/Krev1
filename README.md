@@ -95,6 +95,50 @@ A contribution to **ProZ0**, a browser-based pixel-art survival and exploration 
 
 <br />
 
+### 04 / SpendWise AI
+
+<a href="https://github.com/Krev1/spendwise-ai">
+  <img src="./assets/spendwise-silhouette.jpg" alt="SpendWise AI — Minh họa xử lý CSV và prototype phân loại dữ liệu chi tiêu; dự án đang phát triển." width="100%" />
+</a>
+
+**SpendWise AI · Dự án đang phát triển**  
+Dự án quản lý thu chi và nghiên cứu phân loại mô tả chi tiêu tiếng Việt. Nội dung hiện có gồm công cụ giao dịch/CSV, xử lý và chia dữ liệu, prototype baseline cùng tài liệu và kiểm thử.
+
+<sub>Ứng dụng web đầy đủ và pipeline huấn luyện ML chưa hoàn thành. Thumbnail là minh họa luồng dữ liệu, không phải ảnh ứng dụng đã triển khai.</sub>
+
+`Python` &nbsp; `CSV` &nbsp; `Data Processing` &nbsp; `ML Prototype`  
+[Xem mã nguồn ↗](https://github.com/Krev1/spendwise-ai)
+
+<br />
+
+### 05 / MONOGRAPH Portfolio
+
+<a href="https://github.com/Krev1/monograph-portfolio">
+  <img src="./assets/monograph-silhouette.jpg" alt="MONOGRAPH — Minh họa portfolio cá nhân và kết nối danh sách kho mã GitHub." width="100%" />
+</a>
+
+**MONOGRAPH · Developer Portfolio**  
+Portfolio cá nhân với các phần giới thiệu, dự án và liên hệ, xây dựng bằng Next.js, React và TypeScript. Danh sách kho mã công khai được lấy từ GitHub API.
+
+`Next.js` &nbsp; `React` &nbsp; `TypeScript` &nbsp; `GitHub API`  
+[Xem mã nguồn ↗](https://github.com/Krev1/monograph-portfolio)
+
+<br />
+
+### 06 / Learn · Python Learning Journey
+
+<a href="https://github.com/Krev1/Learn">
+  <img src="./assets/learn-silhouette.jpg" alt="Learn — Minh họa bài học, bài tập và thực hành dữ liệu Python." width="100%" />
+</a>
+
+**Learn · Hành trình tự học Python**  
+Kho bài học, bài tập, lộ trình và nhật ký tự học. Có nội dung học qua dự án SpendWise AI, thực hành CSV, gán nhãn và xây dựng dataset.
+
+`Python` &nbsp; `Self-study` &nbsp; `Data Practice`  
+[Xem bài học và bài tập ↗](https://github.com/Krev1/Learn)
+
+<br />
+
 <sub>Project covers are original illustrations, not screenshots. ProZ0 is presented as a contribution.</sub>
 
 <p align="center"><img src="./assets/divider.svg" alt="" width="100%" /></p>
